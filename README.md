@@ -1,7 +1,5 @@
 <h1 align="center">👋 Hi, I'm fang.</h1> 
 
-A passionate Java and Kotlin programmer. 
-
 - 👀 I'm interested in Reverse Engineering and Game Hacking.
 - 📖 I am currently learning C++ and Kotlin.
 - 📫 Feel free to contact me at "fernxndo@duck.com" or "@fang.dev" on Discord.<br>
@@ -18,8 +16,6 @@ A passionate Java and Kotlin programmer.
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) 
 ![Inkscape](https://img.shields.io/badge/Inkscape-e0e0e0?style=for-the-badge&logo=inkscape&logoColor=080A13)  
 
-### 📊 GitHub Stats:
-
-![](https://github-readme-streak-stats.herokuapp.com/?user=fangii&theme=github_dark_dimmed&hide_border=false)
+---
 
 [![](https://visitcount.itsvg.in/api?id=fangii&icon=5&color=12)](https://visitcount.itsvg.in)
