@@ -1,8 +1,8 @@
-<h1 align="center">👋 Hi, I'm fang.</h1> 
+<h1 align="center">👋 Hi, I'm fenkz.</h1> 
 
 - 👀 I'm interested in Reverse Engineering and Game Hacking.
 - 📖 I am currently learning C++ and Kotlin.
-- 📫 Feel free to contact me at "fernxndo@duck.com" or "@fang.dev" on Discord.<br>
+- 📫 Feel free to contact me at "fenkz@duck.com" or "fenkz.dev" on Discord.
 
 ### 💻 Languages and Tools:
 
